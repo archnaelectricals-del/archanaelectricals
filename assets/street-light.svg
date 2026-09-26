@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#dff5ff"/><stop offset="1" stop-color="#f7fbfe"/></linearGradient>
+<linearGradient id="steel" x1="0" x2="1"><stop stop-color="#536b7e"/><stop offset="1" stop-color="#b7c8d4"/></linearGradient>
+<linearGradient id="blue" x1="0" x2="1"><stop stop-color="#0d6efd"/><stop offset="1" stop-color="#19b5fe"/></linearGradient></defs>
+<rect width="900" height="600" fill="url(#sky)"/><rect y="455" width="900" height="145" fill="#dfe8ee"/>
+<circle cx="760" cy="105" r="58" fill="#fff" opacity=".7"/><path d="M430 455L445 175M445 175L555 145" stroke="#4f6879" stroke-width="16"/><path d="M555 145L600 175" stroke="#4f6879" stroke-width="12"/>
+        <path d="M595 170Q650 185 665 225Q620 205 595 210Z" fill="#fff2a8"/><path d="M180 455L190 250M190 250L285 225" stroke="#4f6879" stroke-width="13"/><path d="M285 225L325 245" stroke="#4f6879" stroke-width="10"/>
+        <path d="M320 242Q365 255 375 285Q335 270 320 278Z" fill="#fff2a8"/><rect x="35" y="500" width="830" height="70" rx="14" fill="#071a2d" opacity=".94"/>
+<text x="65" y="545" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="white">Street Light Work</text></svg>
