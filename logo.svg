@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#19b5fe"/><stop offset="1" stop-color="#0d6efd"/></linearGradient></defs>
+<rect width="520" height="150" rx="22" fill="#071a2d"/>
+<rect x="18" y="18" width="114" height="114" rx="18" fill="none" stroke="url(#g)" stroke-width="7"/>
+<path d="M77 30L49 83h27l-11 37 37-55H75z" fill="#4ec9ff"/>
+<text x="153" y="68" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="white" letter-spacing="2">ARCHANA</text>
+<text x="153" y="103" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#4ec9ff" letter-spacing="6">ELECTRICALS</text>
+</svg>

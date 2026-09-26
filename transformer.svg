@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#dff5ff"/><stop offset="1" stop-color="#f7fbfe"/></linearGradient>
+<linearGradient id="steel" x1="0" x2="1"><stop stop-color="#536b7e"/><stop offset="1" stop-color="#b7c8d4"/></linearGradient>
+<linearGradient id="blue" x1="0" x2="1"><stop stop-color="#0d6efd"/><stop offset="1" stop-color="#19b5fe"/></linearGradient></defs>
+<rect width="900" height="600" fill="url(#sky)"/><rect y="455" width="900" height="145" fill="#dfe8ee"/>
+<circle cx="760" cy="105" r="58" fill="#fff" opacity=".7"/><rect x="430" y="150" width="220" height="210" rx="18" fill="#718796"/><rect x="455" y="180" width="170" height="160" rx="12" fill="#aab9c2"/>
+        <circle cx="500" cy="255" r="45" fill="none" stroke="#304c60" stroke-width="12"/><circle cx="580" cy="255" r="45" fill="none" stroke="#304c60" stroke-width="12"/>
+        <line x1="470" y1="150" x2="470" y2="80" stroke="#304c60" stroke-width="10"/><line x1="610" y1="150" x2="610" y2="80" stroke="#304c60" stroke-width="10"/>
+        <path d="M470 80H610" stroke="#304c60" stroke-width="7"/><path d="M470 80L390 130M610 80L690 130" stroke="#0d6efd" stroke-width="5"/><rect x="35" y="500" width="830" height="70" rx="14" fill="#071a2d" opacity=".94"/>
+<text x="65" y="545" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="white">Transformer Work</text></svg>

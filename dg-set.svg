@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#dff5ff"/><stop offset="1" stop-color="#f7fbfe"/></linearGradient>
+<linearGradient id="steel" x1="0" x2="1"><stop stop-color="#536b7e"/><stop offset="1" stop-color="#b7c8d4"/></linearGradient>
+<linearGradient id="blue" x1="0" x2="1"><stop stop-color="#0d6efd"/><stop offset="1" stop-color="#19b5fe"/></linearGradient></defs>
+<rect width="900" height="600" fill="url(#sky)"/><rect y="455" width="900" height="145" fill="#dfe8ee"/>
+<circle cx="760" cy="105" r="58" fill="#fff" opacity=".7"/><rect x="315" y="230" width="330" height="180" rx="18" fill="#263f52"/><rect x="350" y="260" width="170" height="105" rx="10" fill="#516d80"/>
+        <circle cx="590" cy="320" r="55" fill="#182b3a" stroke="#a9bdc9" stroke-width="10"/><circle cx="590" cy="320" r="17" fill="#19b5fe"/>
+        <rect x="370" y="280" width="90" height="35" rx="5" fill="#19b5fe"/><rect x="370" y="330" width="120" height="12" rx="6" fill="#d5e2ea"/><rect x="35" y="500" width="830" height="70" rx="14" fill="#071a2d" opacity=".94"/>
+<text x="65" y="545" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="white">Diesel Generator Set</text></svg>
